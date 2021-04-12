@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dolankr-1833492
 - 👀 I’m interested in data science and programing projects that help find new insites to real problems.
 - 🌱 I’m currently using R, Python and Java.
-
+- Examples of some of the programs and applications I have worked on are in my repositories.
 
 <!---
 dolankr-1833492/dolankr-1833492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dolankr-1833492
-- 👀 I’m interested in data science and programing projects that help find new insites to real problems.
+- 👀 I’m interested in data science and programing projects that help find new insights to real problems.
 - 🌱 I’m currently using R, Python and Java.
 - Examples of some of the programs and applications I have worked on are in my repositories.
 
